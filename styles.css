@@ -1,0 +1,33 @@
+h1 {
+  color: blue;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 100px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px 4px #000000;
+  animation: animate 2s infinite;
+}
+
+h2 {
+  color: lightskyblue;
+  font-size: 30px;
+  text-align: left;
+  margin-top: 50px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px 4px #000000;
+  animation: animate 2s infinite;
+}
+
+.container {
+  border-radius: 10px; /* Adjust as needed */
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5); /* Adjust as needed */
+  padding: 10px; /* Adjust as needed */
+  display: inline-block;
+  margin: 0.5rem;
+}
